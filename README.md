@@ -84,6 +84,22 @@ Using Phoneo, retailers can achieve:
 
 ---
 
+
+## ⚠️ <span style="color:#d97706;">Note</span>
+
+<div style="background-color:#fff7ed; border-left:4px solid #f59e0b; padding:12px; border-radius:6px;">
+
+Due to company policies and confidentiality agreements, the source code for this project cannot be publicly shared.  
+The live demo is provided to showcase the features, functionality, and overall system capabilities.
+
+**Demo Credentials:**
+- **Phone Number:** 9039393926  
+- **OTP:** 1111
+
+</div>
+
+---
+
 ## 🔗 Live Platform
 
 👉 https://mobile.phoneo.in/
