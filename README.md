@@ -95,14 +95,9 @@ The live demo is provided to showcase the features, functionality, and overall s
 **Demo Credentials:**
 - **Phone Number:** 9039393926  
 - **OTP:** 1111
+- **Live Platform:** https://mobile.phoneo.in/
 
 </div>
-
----
-
-## 🔗 Live Platform
-
-👉 https://mobile.phoneo.in/
 
 ---
 
